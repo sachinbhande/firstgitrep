@@ -1,1 +1,3 @@
 "this is a fileB" 
+
+updating fileB version 1
